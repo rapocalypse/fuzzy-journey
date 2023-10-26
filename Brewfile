@@ -31,6 +31,7 @@ mas "Xcode", id: 497799835
 mas "Amphetamine", id: 937984704
 mas "Keynote", id: 409183694
 mas "Pages", id: 409201541
+mas "Be Focused Pro", id: 961632517
 vscode "benjaminbenais.copilot-theme"
 vscode "bmewburn.vscode-intelephense-client"
 vscode "esbenp.prettier-vscode"
