@@ -26,6 +26,7 @@ cask "postman"
 cask "sequel-ace"
 cask "the-unarchiver"
 cask "visual-studio-code"
+cask "raycast"
 mas "Xcode", id: 497799835
 mas "Amphetamine", id: 937984704
 mas "Keynote", id: 409183694
