@@ -118,3 +118,9 @@ alias dup="docker compose up -d"
 alias dstop="docker compose stop"
 
 function dsh { docker exec -it "$1" /bin/bash }
+
+##
+# RUBY
+##
+source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
+source /opt/homebrew/opt/chruby/share/chruby/auto.sh
